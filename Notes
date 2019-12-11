@@ -1,0 +1,8 @@
+After completing the assignment.
+Neural Network: Approximately 91% accuracy on testing set and 100 % accuracy on the training set.
+Random forest algorithm : 86 % accuracy on  testing set and 99 % accuracy on the training set.
+I am attaching the code in Jupyter-notebook(Python 3) along with with the environment file. 
+
+Regarding the .ipynb files:
+NN_assignment.ipynb // jupyter-notebook for the Neural Network algorithm.
+random_forest_assignment.ipynb // jupyter-notebook for the random forest algorithm.
